@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0a345b491b00658a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fe5fc9c63c72220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86805350abb0beb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/2 Probability Univariate Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 Probability Univariate Models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38e6cc40658aa4d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "da27e221ef870dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ad681efef04cb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1d03ee109ce8aba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "99274535a16b0e71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8b69277591545a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e4425f4b8dddae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "112886895ac55c87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "646ac449d3a1e91d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c104bdab3151a15b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfbd5b455846304d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "86805350abb0beb9",
+  "lastOpenFiles": [
+    "Pasted image 20250724174216.png",
+    "Pasted image 20250725182526.png",
+    "Pasted image 20250725184244.png",
+    "Pasted image 20250725203202.png",
+    "Pasted image 20250726120521.png",
+    "Pasted image 20250726120845.png",
+    "Pasted image 20250726124134.png",
+    "Pasted image 20250726132748.png",
+    "Pasted image 20250726135700.png",
+    "Pasted image 20250728181625.png",
+    "Pasted image 20250808123904.png",
+    "Untitled.base",
+    "Untitled.md",
+    "Untitled/2 Probability Univariate Models.md",
+    "Flask & Django Resources & Ideas.md",
+    "Backend from first principles.md",
+    "2025-08-24.md",
+    "Welcome.md",
+    "Notes",
+    "2025-07-24.md",
+    "Untitled"
+  ]
+}
