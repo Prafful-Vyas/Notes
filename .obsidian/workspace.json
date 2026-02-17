@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Practice.md",
+                "file": "DE-Course/Spark-Project/Lending Club Project Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Practice"
+              "title": "Lending Club Project Introduction"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d8b69277591545a0",
@@ -135,21 +136,7 @@
             }
           },
           {
-            "id": "dfbd5b455846304d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "93f814a66432c43e",
+            "id": "681b6651c8fcf9a1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -157,9 +144,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "58a5456cbb06aa34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DE-Course/Spark-Project/Lending Club Project Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lending Club Project Introduction"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,12 +181,27 @@
   },
   "active": "add2d1d4ddefe678",
   "lastOpenFiles": [
+    "README.md",
+    "DE-Course/Spark-Project/Lending Club Project Introduction.md",
+    "lpthw/Chapter-01.md",
+    "DE-Course/Spark-Project/Apache Spark Project.md",
+    "DE-Course/Spark-Project/More on Agile Methodology.md",
+    "DE-Course/Spark-Project/Agile Methodology.md",
+    "Pasted image 20260217223404.png",
+    "DE-Course/Spark-Project/Example Problem Statements.md",
+    "DE-Course/Spark-Project",
+    "Untitled 1",
     "Untitled 2.base",
+    "Untitled.md",
     "Untitled 1.base",
-    "2026-02-14.md",
+    "Untitled",
+    "DE-Course",
+    "Cl.md",
+    "lpthw",
     "Untitled.canvas",
-    "Python Practice.md",
     "Untitled.base",
+    "Python Practice.md",
+    "2026-02-14.md",
     "Pasted image 20250724174216.png",
     "Untitled/2 Probability Univariate Models.md",
     "ML-Notes/image.png",
@@ -193,18 +210,15 @@
     "ML-Notes/image 1.png",
     "ML-Notes/2 Probability Univariate Models.md",
     "ML-Notes",
-    "README.md",
     "Pasted image 20250725182526.png",
     "Pasted image 20250725184244.png",
     "Pasted image 20250725203202.png",
     "Pasted image 20250726120521.png",
-    "Pasted image 20250726120845.png",
     "Flask & Django Resources & Ideas.md",
     "Backend from first principles.md",
     "2025-08-24.md",
     "Welcome.md",
     "Notes",
-    "2025-07-24.md",
-    "Untitled"
+    "2025-07-24.md"
   ]
 }

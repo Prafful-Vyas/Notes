@@ -294,4 +294,5 @@ Use `while` because:
 
 ---
 
-5. 
+5. Instead of using a `set`, optimize it using a dictionary so we don't remove characters one by one.
+6. 
